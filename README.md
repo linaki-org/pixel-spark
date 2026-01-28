@@ -18,3 +18,24 @@ Finally, you need to compile your animations to work on an arduino. Make sure yo
 You can now paste it in a new empty arduino project and upload it.  
 
 ## Enjoy !!
+
+
+## Versions history
+- 1.5
+    - Minor bug fixes
+    - Fixing compatibility with linux/older python versions
+    - Adding color order rules
+    - Reorganizing buttons panel
+    - Reducing canvas size to work with smaller screens
+    - Adding security for slide time and color
+    - Switching slide time and timecode from int to float
+    
+- 1.4
+    - Adding possibility to light a group to a certain color
+    - Fixing automapper (it was not working)
+    - Adding piggy code compression of same color on several pixels
+    
+- 1.3
+    - Adding pixel sequence simulation
+    - Adding play on piggy button
+    - Adding automapper
