@@ -1,0 +1,4 @@
+tk
+pyperclip
+pyserial
+opencv-python
